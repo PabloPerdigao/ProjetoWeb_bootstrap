@@ -2,6 +2,8 @@
 
 Este projeto visa colocar em prática os aprendizados recentes sobre o uso do Bootstrap para criar um site responsivo e estilizado. O projeto inclui diversas seções como Sobre, Valores, Soluções, Equipe e Contato.
 
+![Prévia do Projeto](./images/project-preview.png)
+
 ## Estrutura do Projeto
 
 ## Tecnologias Utilizadas
@@ -19,6 +21,7 @@ Este projeto visa colocar em prática os aprendizados recentes sobre o uso do Bo
 - **Soluções**: Seção que apresenta as soluções oferecidas pela empresa.
 - **Equipe**: Seção que apresenta os membros da equipe.
 - **Contato**: Formulário de contato para os visitantes entrarem em contato com a empresa.
+
 ## Estrutura do CSS
 
 O arquivo `style.css` contém estilos personalizados para o projeto, incluindo redefinições de CSS, variáveis de cores, e classes específicas para estilização dos componentes do site.
